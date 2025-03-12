@@ -1,5 +1,5 @@
 - Hi, I’m @OwenBrosseau
 - I’m interested in programming, cyber security, machine learning, cryptography, and more
-- I’m currently learning a little bit of web design, as well as cyber security basics
+- I’m currently learning cyber security basics
 - I am looking for work
 - I can be reached by phone ((604)-354-7648) or by email (owen.c.brosseau@gmail.com)
